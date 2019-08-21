@@ -54,7 +54,7 @@ namespace CCControls
             public static string[] FILENAMES = { "Default 1.txt", "Default 2.txt", "Default 3.txt", "Default 4.txt",
                                                 "Default 5.txt", "Default 6.txt", "Default 7.txt", "Default 8.txt",
                                                 "Default 9.txt", "Default 10.txt", "Default 11.txt", "Default 12.txt" };
-            public static string DIRECTORY = "Y:\\Current Cycling\\Kats Data\\Data\\";
+            public static string DIRECTORY = "L:\\Kat Han\\Current Cycling\\Kats Data\\Data\\";
             public static int CYCLE_MINUTES = 0;
             public static bool CURRENT_BIAS_STATUS = false;
             public static bool PAUSED_STATUS = false;
@@ -884,16 +884,6 @@ namespace CCControls
         }
 
         private void btnNew1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TxtDirectory_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void BtnLoad2_Click(object sender, EventArgs e)
         {
 
         }

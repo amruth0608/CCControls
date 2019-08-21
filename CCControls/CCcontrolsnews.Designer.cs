@@ -424,7 +424,6 @@
             this.txtDirectory.Size = new System.Drawing.Size(299, 20);
             this.txtDirectory.TabIndex = 20;
             this.txtDirectory.Text = "C:\\Users\\khan\\Documents\\CC cabinet\\Data\\";
-            this.txtDirectory.TextChanged += new System.EventHandler(this.TxtDirectory_TextChanged);
             // 
             // btnConnect
             // 
@@ -1181,7 +1180,6 @@
             this.btnLoad2.TabIndex = 50;
             this.btnLoad2.Text = "Load";
             this.btnLoad2.UseVisualStyleBackColor = true;
-            this.btnLoad2.Click += new System.EventHandler(this.BtnLoad2_Click);
             // 
             // btnLoad3
             // 
